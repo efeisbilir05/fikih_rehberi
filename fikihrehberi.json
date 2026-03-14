@@ -16,7 +16,7 @@
       ]
     },
     {
-      "baslik": "Suların Hükmî Durumları (Teferruatlı)",
+      "baslik": "Suların Hükmî Durumları",
       "maddeler": [
         "Mutlak Sular: Yaratılışındaki saflığı koruyan, temiz ve temizleyici olan sular (Deniz, nehir, kuyu).",
         "Müstamel (Kullanılmış) Su: Maddi pisliği gidermek için değil, hükmî kirliliği (abdestsizliği) gidermek için kullanılan sudur. Kendisi temizdir ancak tekrar abdest veya gusül alınamaz.",
@@ -43,7 +43,7 @@
   ]
 },
   {
-  "bolum": "NAMAZ (KİTÂBU'S-SALÂT) - TEFERRUATLI",
+  "bolum": "NAMAZ (KİTÂBU'S-SALÂT)",
   "sayfa": 139,
   "alt_konular": [
     {
@@ -81,7 +81,7 @@
   ]
 }, 
     {
-  "bolum": "ZEKAT (KİTÂBU'Z-ZEKÂT) - TEFERRUATLI",
+  "bolum": "ZEKAT (KİTÂBU'Z-ZEKÂT)",
   "sayfa": 471,
   "alt_konular": [
     {
@@ -120,7 +120,7 @@
   ]
 },
     {
-  "bolum": "ORUÇ (KİTÂBU'S-SIYÂM) - TEFERRUATLI",
+  "bolum": "ORUÇ (KİTÂBU'S-SIYÂM)",
   "sayfa": 589,
   "alt_konular": [
     {
@@ -157,7 +157,7 @@
   ]
 },
    {
-  "bolum": "HAC (KİTÂBU'L-HAC) - TEFERRUATLI",
+  "bolum": "HAC (KİTÂBU'L-HAC)",
   "sayfa": 715,
   "alt_konular": [
     {
@@ -196,7 +196,7 @@
   ]
 },
     {
-  "bolum": "MUAMELAT (TİCARİ HAYAT) - TEFERRUATLI",
+  "bolum": "MUAMELAT (TİCARİ HAYAT)",
   "sayfa": 845,
   "alt_konular": [
     {
@@ -234,7 +234,7 @@
   ]
 },
     {
-  "bolum": "NİKÂH VE AİLE HAYATI - TEFERRUATLI",
+  "bolum": "NİKÂH VE AİLE HAYATI",
   "sayfa": 980,
   "alt_konular": [
     {
@@ -273,7 +273,7 @@
   ]
 },
     {
-  "bolum": "FERÂİZ (MİRAS HUKUKU) - TEFERRUATLI",
+  "bolum": "FERÂİZ (MİRAS HUKUKU)",
   "sayfa": 1150,
   "alt_konular": [
     {
@@ -304,7 +304,7 @@
   ]
 },
     {
-  "bolum": "UKUBÂT (CEZA HUKUKU) - TEFERRUATLI",
+  "bolum": "UKUBÂT (CEZA HUKUKU)",
   "sayfa": 1250,
   "alt_konular": [
     {
@@ -338,7 +338,7 @@
   ]
 },
     {
-  "bolum": "KERAHET VE İSTİHSAN (GÜNLÜK HAYAT ADABI) - TEFERRUATLI",
+  "bolum": "KERAHET VE İSTİHSAN (GÜNLÜK HAYAT ADABI)",
   "sayfa": 1320,
   "alt_konular": [
     {
@@ -368,7 +368,7 @@
   ]
 },
     {
-  "bolum": "YARGILAMA VE ŞAHİTLİK - TEFERRUATLI",
+  "bolum": "YARGILAMA VE ŞAHİTLİK",
   "sayfa": 1380,
   "alt_konular": [
     {
